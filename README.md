@@ -138,7 +138,7 @@ fitness-food-dashboard/
 ## 🚀 How to Use
 
 ### Option 1: View Live Dashboard
-🔗 [**View on Tableau Public**](#) *(Add your link)*
+🔗  (https://public.tableau.com/views/TableauExaminationFood-BeveragesProject/Overview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Option 2: Download and Explore
 1. Clone this repository
@@ -175,10 +175,10 @@ fitness-food-dashboard/
 
 ## 👤 Author
 
-**Ansh Nain**
+**Ansh **
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![Tableau Public](https://img.shields.io/badge/Tableau-Public-orange)](https://public.tableau.com/app/profile/yourprofile)
+[![LinkedIn][(https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/ansh-nain-985763214/)
+
 
 ---
 
